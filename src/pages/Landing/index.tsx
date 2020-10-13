@@ -19,7 +19,7 @@ const Landing: React.FC = () => {
         <h1>Leve felicidade para o mundo</h1>
         <p>Visite orfanatos e mude o dia de muitas crianças.</p>
 
-        <NavigateButton to="/">
+        <NavigateButton to="/orphanages">
           <FaArrowRight size={32} color="rgba(0, 0, 0, 0.6)" />
         </NavigateButton>
       </div>
